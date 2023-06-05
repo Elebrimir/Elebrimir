@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sci-Fi, Fantasy, Rol Games, 3D Prints and Paint miniatures.
 - 🌱 I’m currently learning DAW(Desarrollo de aplicaciones web).
 - 💞️ I’m looking to collaborate on everything 😁.
-- 📫 How to reach me by this page on direct message.
+- 📫 How to reach me, by this page on direct message.
 
 <!---
 Elebrimir/Elebrimir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
